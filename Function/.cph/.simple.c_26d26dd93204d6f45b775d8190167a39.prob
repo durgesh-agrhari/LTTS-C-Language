@@ -1,0 +1,1 @@
+{"name":"Local: simple","url":"e:\\LTTS\\C language\\Function\\simple.c","tests":[{"id":1685209230913,"input":"11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\LTTS\\C language\\Function\\simple.c","group":"local","local":true}
